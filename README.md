@@ -1,6 +1,8 @@
 # Bot Public List #
 Bot Public List for [WordPress Block Analytics Spam](https://wordpress.org/plugins/wp-block-analytics-spam/)
 
+> **Don't use the file with the PHP extension (bot-public-list.php) only use the file with a TXT extension (bot-public-list.txt)**
+
 ## Description/Descrição ##
 
 #### English:
