@@ -72,6 +72,7 @@ chinese-amezon.com
 ci.ua
 cityadspix.com
 civilwartheater.com
+copyrightclaims.org
 coderstate.com
 codysbbq.com
 conciergegroup.org
@@ -136,6 +137,7 @@ germes-trans.com
 get-free-social-traffic.com
 Get-Free-Traffic-Now.com
 getyourprofit.net
+get-your-social-buttons.info
 ghazel.ru
 girlporn.ru
 gkvector.ru
@@ -292,6 +294,7 @@ site8.floating-share-buttons.com
 site9.floating-share-buttons.com
 siteripz.net
 sitevaluation.org
+snip.to
 sledstvie-veli.net
 slftsdybbg.ru
 slkrm.ru
